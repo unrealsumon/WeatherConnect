@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue4\\projects\\weatherpluginproject\\plugins\\weatherconnect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\weatherconnect\\module.weatherconnect.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue4\\projects\\weatherpluginproject\\intermediate\\build\\win64\\x64\\weatherpluginprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\ue4\\projects\\weatherpluginproject\\plugins\\weatherconnect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\weatherconnect\\definitions.weatherconnect.h",
+            "d:\\ue4\\projects\\weatherpluginproject\\plugins\\weatherconnect\\intermediate\\build\\win64\\unrealeditor\\inc\\weatherconnect\\uht\\weatherconnect.init.gen.cpp",
+            "d:\\ue4\\projects\\weatherpluginproject\\plugins\\weatherconnect\\intermediate\\build\\win64\\unrealeditor\\inc\\weatherconnect\\uht\\weatherconnectbplibrary.gen.cpp",
+            "d:\\ue4\\projects\\weatherpluginproject\\plugins\\weatherconnect\\source\\weatherconnect\\public\\weatherconnectbplibrary.h",
+            "u:\\engine\\ue_5.2\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "u:\\engine\\ue_5.2\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "d:\\ue4\\projects\\weatherpluginproject\\plugins\\weatherconnect\\intermediate\\build\\win64\\unrealeditor\\inc\\weatherconnect\\uht\\weatherconnectbplibrary.generated.h",
+            "d:\\ue4\\projects\\weatherpluginproject\\plugins\\weatherconnect\\source\\weatherconnect\\private\\weatherconnect.cpp",
+            "d:\\ue4\\projects\\weatherpluginproject\\plugins\\weatherconnect\\source\\weatherconnect\\public\\weatherconnect.h",
+            "d:\\ue4\\projects\\weatherpluginproject\\plugins\\weatherconnect\\source\\weatherconnect\\private\\weatherconnectbplibrary.cpp",
+            "u:\\engine\\ue_5.2\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "u:\\engine\\ue_5.2\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

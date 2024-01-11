@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WeatherConnect.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4\Projects\WeatherPluginProject\Intermediate\Build\Win64\x64\WeatherPluginProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\UE4\Projects\WeatherPluginProject\Plugins\WeatherConnect\Intermediate\Build\Win64\x64\UnrealEditor\Development\WeatherConnect\Module.WeatherConnect.cpp.obj"
+"D:\UE4\Projects\WeatherPluginProject\Plugins\WeatherConnect\Intermediate\Build\Win64\x64\UnrealEditor\Development\WeatherConnect\Default.rc2.res"
+/OUT:"D:\UE4\Projects\WeatherPluginProject\Plugins\WeatherConnect\Intermediate\Build\Win64\x64\UnrealEditor\Development\WeatherConnect\UnrealEditor-WeatherConnect.lib"
